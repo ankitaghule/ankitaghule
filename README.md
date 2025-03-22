@@ -18,20 +18,16 @@ Welcome to my GitHub! I'm passionate about data science, AI, and analytics. With
 
 ✨ Enthusiastic about Big Data, AI, ML and data science
 
-✨ Looking forward to contribute to some interesting projects
+✨ Looking forward to contributing to some interesting projects
 
 
 ## 🛠️ Technical Skills
 
-Programming: Java, Python, C
+Programming and Development: Java Python, SQL, HTML, CSS, Problem-solving skills, Data structures and algorithms
 
-AI & Data Science: Scikit-learn, TensorFlow, PyTorch, NumPy, Pandas
+Framework & Libraries: Pandas, Scikit-learn, TensorFlow, PyTorch, NumPy, Matplotlib and Seaborn
 
-Data Visualization: Matplotlib, Seaborn
-
-Web Development: HTML, CSS
-
-Databases: MS SQL, SQL
+Database: MS SQL, MYSQL
 
 
 ## 📫 Connect with Me
@@ -47,4 +43,4 @@ Databases: MS SQL, SQL
 
 Published in IJSREM Journal (May 2023)
 
-Read here: IJSREM Journal
+Read here: [IJSREM Journal](https://ijsrem.com/download/functional-code-development-for-existing-data-transformations-of-retail-industry-data-warehouse/)
