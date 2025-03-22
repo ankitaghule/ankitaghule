@@ -37,7 +37,7 @@ Databases: MS SQL, SQL
 
 📧 [Email](ankitaghule1@gmail.com)
 
-🔗 LinkedIn: Ankita Ghule
+🔗 [LinkedIn](https://www.linkedin.com/in/ankitaghule/)
 
 
 ## 🏅 Publications
