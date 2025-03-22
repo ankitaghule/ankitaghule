@@ -35,7 +35,7 @@ Databases: MS SQL, SQL
 
 ## 📫 Connect with Me
 
-📧 [Email][ankitaghule1@gmail.com]
+📧 [Email](ankitaghule1@gmail.com)
 
 🔗 LinkedIn: Ankita Ghule
 
