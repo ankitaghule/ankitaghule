@@ -1,6 +1,5 @@
-### Hi, I'm Ankita Ghule! 👋
+# Hi, I'm Ankita Ghule! 👋
 
-Junior Data Scientist | AI & Machine Enthusiast |
 
 Welcome to my GitHub! I'm passionate about data science, AI, and analytics. With experience in predictive modelling, data visualization, and ETL transformations, I enjoy working on projects that derive insights from data to drive business decisions.
 
