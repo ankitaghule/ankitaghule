@@ -2,14 +2,14 @@
 
 Junior Data Scientist | AI & Machine Enthusiast |
 
-Welcome to my GitHub! I'm passionate about data science, AI, and analytics. With experience in predictive modeling, data visualization, and ETL transformations, I enjoy working on projects that derive insights from data to drive business decisions.
+Welcome to my GitHub! I'm passionate about data science, AI, and analytics. With experience in predictive modelling, data visualization, and ETL transformations, I enjoy working on projects that derive insights from data to drive business decisions.
 
 
 ## 🚀 About Me
 
 🎓 BE in Computer Technology - Yeshwantrao Chavan College of Engineering, Nagpur (2019-2023)
 
-💻 Junior Data Scientist Intern at Neostats Analytics Solutions Pvt. Ltd.
+💻 Ex-Junior Data Scientist Intern at Neostats Analytics Solutions Pvt. Ltd.
 
 📊 Experienced in EDA, Feature Engineering, SQL, Python, AI & Machine Learning
 
@@ -17,7 +17,9 @@ Welcome to my GitHub! I'm passionate about data science, AI, and analytics. With
 
 📚 Published Research in IJSREM Journal
 
-✨ Enthusiastic about Big Data, AI, and Data-Driven Decision Making
+✨ Enthusiastic about Big Data, AI, ML and data science
+
+✨ Looking forward to contribute to some interesting projects
 
 
 ## 🛠️ Technical Skills
